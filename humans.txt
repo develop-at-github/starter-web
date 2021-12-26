@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aditya Thakur	aditya.t.01011@gmail.com
 
 # THANKS
 
